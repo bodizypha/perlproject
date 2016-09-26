@@ -1,11 +1,19 @@
 {
   "name": "perlproject",
   "version": "1.0.0",
-  "description": "",
+  "description": "REQUIRED TECHNOLOGIES :",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "jed davis",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bodizypha/perlproject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bodizypha/perlproject/issues"
+  },
+  "homepage": "https://github.com/bodizypha/perlproject#readme"
 }
